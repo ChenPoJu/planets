@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Earth
+description: This is just the Earth
 ---
 
 ## Welcome to Earth
