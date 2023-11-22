@@ -1,3 +1,7 @@
-## Hello
+---
+layout: default
+title: Another page
+description: This is just another page
+---
 
-### Earth
+## Welcome to Earth
