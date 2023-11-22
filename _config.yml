@@ -1,7 +1,8 @@
 theme: jekyll-theme-cayman
 
 title: CLIM 680 Final Project Report
-description: Miocene Simulations with Miocene aerosols v.s. Pre-industrial aerosols 
+description: Po Ju Chen
+project: Miocene Simulations with Miocene aerosols v.s. Pre-industrial aerosols 
 
 # Specify that things in the episodes collection should be output.
 collections:
