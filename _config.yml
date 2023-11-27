@@ -2,3 +2,9 @@ theme: jekyll-theme-cayman
 
 title: CLIM 680 Final Project Report
 description: Po Ju Chen
+
+remote_theme: tuur29/pages-themes-cayman
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00"
